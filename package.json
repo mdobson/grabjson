@@ -1,5 +1,5 @@
 {
-  "name": "getjson",
+  "name": "grabjson",
   "version": "0.0.1",
   "description": "Command line utility to get json directly.",
   "main": "index.js",
@@ -17,6 +17,6 @@
     "request": "~2.27.0"
   },
   "bin": {
-    "getjson":"index.js"
+    "grab":"index.js"
   }
 }
