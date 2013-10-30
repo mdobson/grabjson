@@ -1,0 +1,22 @@
+{
+  "name": "getjson",
+  "version": "0.0.1",
+  "description": "Command line utility to get json directly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "cmd"
+  ],
+  "author": "Matthew Dobson <mdobson4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "~2.0.0",
+    "request": "~2.27.0"
+  },
+  "bin": {
+    "getjson":"index.js"
+  }
+}
